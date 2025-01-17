@@ -1,4 +1,7 @@
 {
+  "name": "AKB Raine",
+  "vendorId": "0xFEED",
+  "productId": "0x6060",
   "lighting": "none",
   "matrix": {
     "rows": 5,
